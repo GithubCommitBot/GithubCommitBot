@@ -7,7 +7,7 @@ The Github commit bot reads two files:
   2. The test file, which is can run to check whether or not a function is good enough to push to github. 
   
 It uses 3 libaries: 
-  1. nltk for the Natural Language processing part of analyzing its ow file, and most notably function names and comments. 
+  1. nltk for the Natural Language processing part of analyzing its ow file, and most notably function names and comments. http://www.nltk.org/ 
   2. unittest, which is a Standard Python libary for testing. https://docs.python.org/3/library/unittest.html
   3. PyGithub for easily accessing the Github API. https://github.com/PyGithub/PyGithub 
 
