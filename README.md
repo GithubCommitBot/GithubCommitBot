@@ -22,7 +22,7 @@ Installation:
 Testing Strategy: 
   As said above, TDD. 
   
-Branch Explaination:
+Branch Explanation:
   There are a total of three branches. Masters, BotBranch and HumanBranch. The Human is only ever allowed to work on the HumanBranch and push to masters (unless in emergencies). The Bot is only allowed to commit to the BotBranch but may make pull requests to master (which Human will then need to approve). 
   
 Possible expansions (further Milestones, if time is to be had): 
